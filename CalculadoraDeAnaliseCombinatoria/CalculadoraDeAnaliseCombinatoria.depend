@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573937652 source:c:\users\bruno\desktop\trabalho de matemática\calculadoradeanalisecombinatoria\main.c
+	<stdio.h>
+	<stdlib.h>
+
